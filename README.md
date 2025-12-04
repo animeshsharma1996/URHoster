@@ -1,1 +1,1 @@
-# UltraRapidHoster
+# URHoster
